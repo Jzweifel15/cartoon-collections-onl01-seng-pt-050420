@@ -34,3 +34,6 @@ def find_the_cheese# code an argument here
 end
 =end
 
+veggies = ["carrot", "cucumber", "pepper"]
+result = summon_captain_planet(veggies)
+puts result
