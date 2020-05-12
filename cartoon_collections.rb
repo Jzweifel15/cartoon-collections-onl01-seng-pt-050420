@@ -15,7 +15,7 @@ def summon_captain_planet(array)
   
   array.collect do |element|
     element.upcase
-    #element.insert(-1, "!")
+    element.insert(-1, "!")
     elements_array.push(element)
   end
   
